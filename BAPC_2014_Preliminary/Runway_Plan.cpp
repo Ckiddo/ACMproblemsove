@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// succeed
 int hangdao(int deg){
 	int tem;
 	if(deg>184 && deg <= 360){
